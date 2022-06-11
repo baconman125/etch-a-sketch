@@ -41,5 +41,10 @@ function rainbowMode(){
     let gridBoxList = document.querySelectorAll(".grid-box");
     gridBoxList.forEach(gridBox => {gridBox.addEventListener("mouseover", changeColor)});
 }
+function blackMode(){
+    bool = false;
+    let gridBoxList = document.querySelectorAll(".grid-box");
+    gridBoxList.forEach(gridBox => {gridBox.addEventListener("mouseover", changeColor)});
+}
 let numGrid = 16;
 start(numGrid);
