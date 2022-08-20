@@ -1,6 +1,6 @@
 # etch-a-sketch
-https://baconman125.github.io/etch-a-sketch/
-First attempt at creating a etch game with javascript + css +html skills. Oh well, I'll try my best
+
+creating a etch game with javascript + css +html.
 Use the rainbow Color button to change your cursor to display color in ranbowy
 Use the black color button the same way but black colors
 Clear button to clear all the colors on the screen
